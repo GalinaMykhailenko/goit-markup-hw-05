@@ -671,8 +671,8 @@ img {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-icon-close:focus .modal-icon-close, 
-.modal-icon-close:hover .modal-icon-close {
+.modal-close:focus .modal-icon-close, 
+.modal-close:hover .modal-icon-close {
     fill: #ffffff;
 }
 
