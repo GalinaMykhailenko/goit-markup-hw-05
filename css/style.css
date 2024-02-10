@@ -545,7 +545,6 @@ img {
 .footer-form {
     display: flex;
     gap: 24px;
-    align-items: baseline;
 }
 
 .footer-label {
@@ -699,7 +698,7 @@ img {
 .modal-form {}
 
 .modal-field {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .modal-input-wrap {
